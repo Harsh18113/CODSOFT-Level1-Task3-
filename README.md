@@ -1,1 +1,2 @@
-# CODSOFT-Level1-Task3-
+# CALCULATOR
+Design a nice looking calculator using HTML, CSS and JavaScript
